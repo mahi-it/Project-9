@@ -78,11 +78,11 @@ The program continues running until the user selects the *Exit* option.
 
 ### Repository
 
-Sales-Data-Analysis/
-├── sales_data_analysis.py
+project-9
+├── Pandas Analyzer and Data Visualization.py
 ├── sales.csv
 ├── sales2.csv
-└── README.md
+├──README.md
 
 ### Author
 
