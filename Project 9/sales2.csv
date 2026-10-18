@@ -1,0 +1,13 @@
+Order_ID,Date,Product,Sales,Region,Profit,Quantity
+1029,21-01-2026,keyboard,130,North,28,4
+1030,22-01-2026,mouse,65,South,15,5
+1031,23-01-2026,laptop,1850,East,310,3
+1032,24-01-2026,phone,980,West,255,2
+1033,25-01-2026,Laptop,1400,North,290,2
+1034,26-01-2026,phone,890,South,200,3
+1035,27-01-2026,tablet,480,East,95,4
+1036,28-01-2026,monitor,750,West,135,2
+1037,29-01-2026,keyboard,115,North,24,5
+1038,30-01-2026,mouse,58,South,11,6
+1039,31-01-2026,laptop,1750,East,325,2
+1040,01-02-2026,phone,990,West,260,3
